@@ -1,0 +1,9 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/jm/Documents/AnA Final/recursiveTrib'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _getprompt, symObjAddr: 0x0, symBinAddr: 0x100003CD0, symSize: 0x60 }
+  - { offsetInCU: 0x41, offset: 0x41, size: 0x8, addend: 0x0, symName: _getprompt, symObjAddr: 0x0, symBinAddr: 0x100003CD0, symSize: 0x60 }
+  - { offsetInCU: 0x77, offset: 0x77, size: 0x8, addend: 0x0, symName: _the_recursive, symObjAddr: 0x60, symBinAddr: 0x100003D30, symSize: 0x7C }
+  - { offsetInCU: 0xC9, offset: 0xC9, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0xDC, symBinAddr: 0x100003DAC, symSize: 0x174 }
+...

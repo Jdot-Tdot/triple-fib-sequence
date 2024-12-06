@@ -1,0 +1,8 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/jm/Documents/AnA Final/iterativeTrib'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _getprompt, symObjAddr: 0x0, symBinAddr: 0x100003C14, symSize: 0x60 }
+  - { offsetInCU: 0x41, offset: 0x41, size: 0x8, addend: 0x0, symName: _getprompt, symObjAddr: 0x0, symBinAddr: 0x100003C14, symSize: 0x60 }
+  - { offsetInCU: 0x77, offset: 0x77, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x60, symBinAddr: 0x100003C74, symSize: 0x2A4 }
+...
